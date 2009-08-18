@@ -19,10 +19,10 @@ http {
     access_log  logs/nginx_access.log;
     error_log  logs/nginx_error.log;
 
-    root   <%= pwd %>/wwl;
+    root   <%= pwd %>;
 
     location = / {
-      root   <%= pwd %>/wwl;  # Again, replace this. 
+      root   <%= pwd %>;  # Again, replace this. 
       index  index.php;
     }
 
