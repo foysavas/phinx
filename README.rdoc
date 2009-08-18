@@ -1,0 +1,7 @@
+= phinx
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Foy Savas. See LICENSE for details.
